@@ -1,0 +1,11 @@
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\bin\Debug\NatilleraCobroDuro.exe.config
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\bin\Debug\NatilleraCobroDuro.exe
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\bin\Debug\NatilleraCobroDuro.pdb
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.csproj.AssemblyReference.cache
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.Inicio.resources
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.Prestamos.resources
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.Properties.Resources.resources
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.csproj.GenerateResource.cache
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.csproj.CoreCompileInputs.cache
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.exe
+C:\Users\Pancer75\source\repos\NatilleraCobroDuro\obj\Debug\NatilleraCobroDuro.pdb
